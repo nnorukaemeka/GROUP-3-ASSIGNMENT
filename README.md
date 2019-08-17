@@ -1,0 +1,2 @@
+# GROUP-3-ASSIGNMENT
+An assessment to test how well the code plateau group-3 participants understood the lectures on git and github. The participants are to create a repository on Github, create a file with name.html on their locak machine, write their experience so far on the trainingtraining, save and git push the file to the repo created on Github. They arw also to inviteinvite all group members as collaborators to contribute to the project by creating a file with their own experienceexperience, then git push it and open a pull request.
